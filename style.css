@@ -16,10 +16,21 @@ video {
     min-height: 100%;
 }
 
-body {
+/*body {
   text-align: right;
   color:#000;
   padding-top:10em;
 }
 
-* { color:#000; text-decoration: none;}
+* { color:#000; text-decoration: none;}*/
+
+
+body {
+  text-align: left;
+  color:#fff;
+  padding-top:10em;
+}
+
+.nav-link {
+    text-align: right;
+}
