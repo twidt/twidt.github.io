@@ -8,5 +8,6 @@ Step 2. Create super dope portfolio page
 
 Step 3. Add links or pathways to portfolio examples
         -add in game, app, and code snippet?
-        -redo games in first portion of app     
+        -redo games in first portion of app 
+        -add node app as example    
 
