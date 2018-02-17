@@ -11,5 +11,6 @@ Step 3. Add links or pathways to portfolio examples
         -redo games in first portion of app 
         -add node app as example
           maybe add an additional example??+
-        -create a section for group projects???      
+        -create a section for group projects???    
+        -start new project with freelance work   
 
