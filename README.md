@@ -13,4 +13,5 @@ Step 3. Add links or pathways to portfolio examples
           maybe add an additional example??+
         -create a section for group projects???    
         -start new project with freelance work   
+        -redo cmd-line project and add to portfolio
 
