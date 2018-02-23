@@ -15,3 +15,5 @@ Step 3. Add links or pathways to portfolio examples
         -start new project with freelance work   
         -redo cmd-line project and add to portfolio
 
+Step 4. Create contact page
+
