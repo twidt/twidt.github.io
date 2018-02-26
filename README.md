@@ -16,4 +16,6 @@ Step 3. Add links or pathways to portfolio examples
         -redo cmd-line project and add to portfolio
 
 Step 4. Create contact page
+      -add tab to home page
+      -alter homepage?
 
