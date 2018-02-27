@@ -18,4 +18,5 @@ Step 3. Add links or pathways to portfolio examples
 Step 4. Create contact page
       -add tab to home page
       -alter homepage?
+      -add social media info(??)
 
