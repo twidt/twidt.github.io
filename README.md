@@ -21,3 +21,4 @@ Step 4. Create contact page
       -add social media info(??)
       -create specialized phone line //look at unique contact pages
 
+Step 5. create work bot
