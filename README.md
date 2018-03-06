@@ -22,3 +22,5 @@ Step 4. Create contact page
       -create specialized phone line //look at unique contact pages
 
 Step 5. Add bots or games to a seperate example of portfolio strength
+
+Step 6. Add a seperate page for the tools section including non-technical remote work.
