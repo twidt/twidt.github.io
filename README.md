@@ -25,3 +25,5 @@ Step 5. Add bots or games to a seperate example of portfolio strength
       -this should be work related things
 
 Step 6. Add a seperate page for the tools section including non-technical remote work.
+
+Step 7. Add documents to landing page and review other  landing pages for inspiration.
