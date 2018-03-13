@@ -24,6 +24,7 @@ Step 4. Create contact page
 Step 5. Add bots or games to a seperate example of portfolio strength
       -this should be work related things
       -make seperate note of bootcamp examples?
+      -edit a game
 
 Step 6. Add a seperate page for the tools section including non-technical remote work.
 
