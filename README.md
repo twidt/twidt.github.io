@@ -5,6 +5,7 @@ This will be my online portfolio.
 Step 1. Landing page, Text typewriter, Video back ground
       -splash mid?
       -create timer for end of sequence
+      -section off div here
 
 Step 2. Create super dope portfolio page
 
