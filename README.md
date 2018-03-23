@@ -8,6 +8,7 @@ Step 1. Landing page, Text typewriter, Video back ground
       -section off div here
 
 Step 2. Create super dope portfolio page
+      -like extra dope
 
 Step 3. Add links or pathways to portfolio examples
         -add in game, app, and code snippet?
