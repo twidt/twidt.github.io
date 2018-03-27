@@ -6,6 +6,7 @@ Step 1. Landing page, Text typewriter, Video back ground
       -splash mid?
       -create timer for end of sequence
       -section off div here
+      -send it to test
 
 Step 2. Create super dope portfolio page
       -like extra dope
