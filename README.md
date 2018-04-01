@@ -34,6 +34,7 @@ Step 5. Add bots or games to a seperate example of portfolio strength
 
 Step 6. Add a seperate page for the tools section including non-technical remote work.
         - mention HR, admin, ops, va or nah?mmmmmm
+        - new page
 
 Step 7. Add documents to landing page and review other  landing pages for inspiration.
        - possible add a scrolling page or flash element timed after the rocket
