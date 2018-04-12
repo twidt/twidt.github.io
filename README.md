@@ -31,7 +31,7 @@ Step 5. Add bots or games to a seperate example of portfolio strength
       -make seperate note of bootcamp examples?
       -edit a game
       -create added resume with downloadable section
-         password protected (emailed to me)
+         password protected (emailed to me) or request page?
 
 Step 6. Add a seperate page for the tools section including non-technical remote work.
         - mention HR, admin, ops, va or nah?mmmmmm
