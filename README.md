@@ -40,3 +40,4 @@ Step 6. Add a seperate page for the tools section including non-technical remote
 
 Step 7. Add documents to landing page and review other  landing pages for inspiration.
        - possible add a scrolling page or flash element timed after the rocket
+       - possible password protect?
