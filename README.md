@@ -26,7 +26,7 @@ Step 4. Create contact page
       -add social media info(??)
       _possibly link to new twitter page creation_ls site mention and twitter mention
 
-Step 5. Add bots or games to a seperate example of portfolio strength
+Step 5. Add bots or games to a seperate example of portfolio strength (liri bot options)
       -this should be work related things
       -make seperate note of bootcamp examples?
       -edit a game
