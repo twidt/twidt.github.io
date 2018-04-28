@@ -31,7 +31,7 @@ Step 5. Add bots or games to a seperate example of portfolio strength (liri bot 
       -make seperate note of bootcamp examples?
       -edit a game
       -create added resume with downloadable section
-         password protected //or release with email input
+         password protected //or release with email input//but capture email
 Step 6. Add a seperate page for the tools section including non-technical remote work.
         - mention HR, admin, ops, va or nah?mmmmmm
         - new page (this should go in detail about customer support)
