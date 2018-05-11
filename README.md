@@ -37,6 +37,7 @@ Step 6. Add a seperate page for the tools section including non-technical remote
         - new page (this should go in detail about customer support)
         - keep out specific companies or blur out (list industries)
         -possibly link to LS site__ updating ls site_keep ls site more updates
+         -also add note about ls
 
 Step 7. Add documents to landing page and review other  landing pages for inspiration.
        - possible add a scrolling page or flash element timed after the rocket
